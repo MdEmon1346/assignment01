@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.headDiv{
+        background-image: url("image/Hero-bg.png") ;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+}
+.bgText{
+    padding: 80px 0;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.MidText{
+    padding: 20px 0;
+}
+.contBtn{
+    border: 2px solid black;
+    padding: 8px 16px;
+    border-radius: 6px;
+    background-color: black;
+    color: white;
+}
+.contacDiv{
+    padding: 15px;
+    text-align: center;
+}
+
+.impTxt{
+    text-align: center;
+    justify-content: center;
+}
+
+.ImpText{
+    padding: 10px 0;
+}
+
+.subSec{
+    margin: 100px 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.iDoCode{
+    width: 800px;
+}
+.lrnBtn{
+    border: 2px solid black;
+    padding: 10px 20px;
+    border-radius: 6px;
+    margin: 10px 0;
+}
+.iDoCode h2, p{
+    padding: 10px 0;
+}
+
+.subSection{
+    margin: 100px 100px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.whyDevImp{
+    margin: 30px 0;
+}
+
+.inspiration{
+    text-align: center;
+    margin: 30px 0;
+}
+
+.insVdo{
+    border-radius: 10px;
+}
+.cntTerget{
+    margin: 100px 100px;
+    text-align: center;
+}
+
+.card1{
+    background-color: #f1dfd7;
+    padding: 30px 20px;
+    width: 265px;
+    height: 150px;
+    border-radius: 10px;
+}
+
+.card2{
+    background-color: #d7e7ed;
+    padding: 30px 20px;
+    width: 265px;
+    height: 150px;
+    border-radius: 10px;
+}
+.card3{
+    background-color: #f2efdb;
+    padding: 30px 20px;
+    width: 265px;
+    height: 150px;
+    border-radius: 10px;
+}
+
+.allCrd{
+    margin: 100px 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.card1 a{
+    color:black;
+}
+.card2 a{
+    color:black;
+}
+.card3 a{
+    color:black;
+}
