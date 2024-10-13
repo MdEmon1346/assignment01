@@ -117,3 +117,43 @@
 .card3 a{
     color:black;
 }
+.sprtSec{
+    background-image: linear-gradient(black, white);
+    background-image: url("image/handshake.jpg");
+    background-repeat: no-repeat;
+    text-align: center;
+    justify-content: center;
+    margin: 100px 100px;
+    height: 840px;
+    background-origin: border-box;
+    color: white;
+    border-radius: 8px;
+}
+.sprtH{
+    padding: 15px 0;
+}
+.sprtIn{
+    margin: 15px 0;
+    padding-right:80px;
+    padding-top:10px ;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border: none;
+    border-radius: 8px;
+}
+.sprtBtn{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+}
+.sprtSecE{
+   padding-top: 22%;
+}
+.footer{
+    background-color: rgb(190, 195, 195);
+    padding: 10px;
+    margin: 0px 100px 0px 100px;
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+}
